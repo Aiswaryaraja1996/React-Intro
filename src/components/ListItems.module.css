@@ -1,0 +1,7 @@
+.card_items{
+    display : flex;
+    width:80%;
+    margin: auto;
+    padding-top:40px;
+    justify-content: space-around;
+}
